@@ -17,5 +17,5 @@
 
 [twitter]: https://twitter.com/BestVerie
 [linkedin]: https://www.linkedin.com/in/iradukunda-best-verie-a74529188/
-[github]: https://www.github.com/in/Best-Verie/
+[github]: https://www.github.com/Best-Verie/
 [instagram]:https://www.instagram.com/______.verie____/
