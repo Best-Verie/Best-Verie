@@ -1,8 +1,8 @@
   Developer || Tech enthusiast || Born to code 
    
-- 🔭 she is currently Coding with Angular 😄/ MEAN stack 🔭 / deep diving into java ⚡ ....
+- 🔭  MEAN stack 🔭 / deep diving into java ⚡ ....
 - 💬 Ask her about the future of coding 🔐 
-- 📫 How to reach her: irabestverie2016@gmail.com 
+- 📫 Let's make a deal : irabestverie2016@gmail.com 
 
 
 |Top languages |
